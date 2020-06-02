@@ -1,19 +1,19 @@
 # DOES NOT WORK
 merge when ready:
-    - ./**/*
+  - ./**/*
 
 # DOES NOT WORK
 configuration:
-    - ./**/*.yml
+  - ./**/*.yml
 
 # It works
 html:
-    - html/**/*.html
+  - html/**/*.html
 
 # It works
 conf:
-    - conf/**/*
+  - conf/**/*
 
 # It works
 github:
-    - .github/**/*
+  - .github/**/*
