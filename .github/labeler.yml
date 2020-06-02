@@ -1,2 +1,4 @@
 merge when ready:
-  - ./*
+  - /**/*
+configuration:
+  - /**/*.yml
