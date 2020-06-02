@@ -1,4 +1,8 @@
 merge when ready:
   - /**/*
+
 configuration:
   - /**/*.yml
+
+html:
+  - /**/*.html
