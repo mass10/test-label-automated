@@ -1,29 +1,19 @@
-#
-# WILL NOT BE APPLIED
-#
+# DOES NOT WORK
 merge when ready:
-  - ./**/*
+    - ./**/*
 
-#
-# WILL NOT BE APPLIED
-#
+# DOES NOT WORK
 configuration:
-  - ./**/*.yml
+    - ./**/*.yml
 
-#
-# APPLIED
-#
+# It works
 html:
-  - html/**/*.html
+    - html/**/*.html
 
-#
-# APPLIED
-#
+# It works
 conf:
-  - conf/**/*
+    - conf/**/*
 
-#
-# APPLIED
-#
+# It works
 github:
-  - .github/**/*
+    - .github/**/*
