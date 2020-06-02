@@ -4,4 +4,5 @@
 * GitHub Actions「labeler」を利用しています。
 
 # memo
-* x
+* 1
+* 2
