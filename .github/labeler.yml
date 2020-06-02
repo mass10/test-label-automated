@@ -6,3 +6,9 @@ configuration:
 
 html:
   - html/**/*.html
+
+conf:
+  - conf/**/*
+
+github:
+  - .github/**/*
