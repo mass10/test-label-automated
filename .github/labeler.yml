@@ -1,2 +1,2 @@
-merge-when-readyieee:
+merge when ready:
   - ./*
