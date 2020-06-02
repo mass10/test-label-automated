@@ -1,14 +1,29 @@
+#
+# WILL NOT BE APPLIED
+#
 merge when ready:
   - ./**/*
 
+#
+# WILL NOT BE APPLIED
+#
 configuration:
   - ./**/*.yml
 
+#
+# APPLIED
+#
 html:
   - html/**/*.html
 
+#
+# APPLIED
+#
 conf:
   - conf/**/*
 
+#
+# APPLIED
+#
 github:
   - .github/**/*
